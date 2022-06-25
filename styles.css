@@ -2,8 +2,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&display=swap');
 
 :root {
-  --primary-color: #3432b8;
-  --primary-color-dark: #0F4C75;
+  --primary-color: #471010;
+  --primary-color-dark: #750f0f;
   --accent-color: #FFF8F0;
 }
 
@@ -89,7 +89,7 @@ body {
 }
 
 .avatar-container img {
-  height: 700px;
+  height: 400px;
   width: auto;
 }
 
